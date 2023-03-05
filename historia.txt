@@ -1,0 +1,19 @@
+    1  git clone https://github.com/paniczeciak/wsb_hinz_2_K79_Inf.git
+    2  ls
+    3  cd wsb_hinz_2_K79_Inf/
+    4  ls
+    5  git status
+    6  touch file
+    7  echo "wsb" > file
+    8  ls
+    9  cat file
+   10  git status
+   11  git add *
+   12  git status
+   13  git commit
+   14  git config --global user.email "kasia.trz98@wp.pl"
+   15  git config --global user.name "paniczeciak"
+   16  git commit
+   17  git push / git push origin main
+   18  git push
+   19  history > historia.txt
